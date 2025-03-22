@@ -114,6 +114,6 @@ Transfer Learning is used to avoid overfitting by freezing the backbone of the C
 
 ## Conclusion
 
-![Training Metrics](frozen_training_validation_metrics.png)
+![Training Metrics](training_metrics_frozen_CNN.png)
 
 The model didn't show remarkable performance but was neither underfitted nor overfitted.
