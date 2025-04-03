@@ -25,7 +25,7 @@ Transfer Learning is used to avoid overfitting by freezing the backbone of the C
 | Trainable Parameters | 2562 |
 | Learning Rate | 0.003 |
 | Number of Epochs | 40 |
-| Train / Test data ratio | 80 : 20 |
+| Train / Test data ratio | 80 : 20 |   
 
 ## Results
 
