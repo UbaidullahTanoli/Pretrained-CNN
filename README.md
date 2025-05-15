@@ -1,6 +1,6 @@
 # Pretrained-CNN
 
-This project focuses on the predictive power of a CNN on Medical (Chest X-ray images) dataset to accurately classify an image as normal or not. This is part of a larger project which combines CNN and LLM to learn from images and the corresponding medical reports of the same patient to make highly accurate binary classification. In this project, only the classification layer was trained. This project serves as a baseline for comparing CNN+LLM.
+This project focuses on the predictive power of a CNN on Medical (Chest X-ray images) dataset to accurately classify an image as normal or not. This is part of a larger project which combines CNN and LLM to learn from images and the corresponding medical reports of the same patient to make highly accurate binary classification. In this project, only the classification layer was trained. This project serves as a baseline for comparing CNN+LLM. 
 
 ## Data
 
